@@ -12,6 +12,7 @@ https://bytebytego.com/guides/
 5. Distributed systems
 6. Platform/ops/reliability
 7. AI systems engineering
+8. Misc / PL theory 
 
 ## books
 
@@ -115,3 +116,29 @@ Introduction to algorithms
 Neetcode (lightly)
 
 DSA as support knowledge, not specialization
+
+-- 
+
+## PL theory stuff
+
+### Go
+Wrote a bunch of go, swagtask is an example
+
+going through docs step by step now:
+
+Effective Go
+
+Go Memory Model
+
+Concurrency Patterns
+
+Code That Grows with Grace
+
+Codewalks/runtime internals
+
+then look at stdlib implementations and see how theyre made
+
+watch talks from Rob Pike and them
+
+### Zig
+haven't done anything yet
