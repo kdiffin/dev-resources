@@ -140,5 +140,8 @@ then look at stdlib implementations and see how theyre made
 
 watch talks from Rob Pike and them
 
+**Books**
+Concurrency in Go because concurrency is hard.
+
 ### Zig
 haven't done anything yet
